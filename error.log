@@ -1,0 +1,3025 @@
+DEBUG:kubric.simulator.pybullet:Ignored light <sun background=True color=(1.0, 1.0, 1.0) front='-Z' intensity=1.5 metadata={} name='sun' position=array([-1. , -0.5,  3. ], dtype=float32) quaternion=array([ 0.83715504,  0.15092452, -0.09327649, -0.51739025], dtype=float32) shadow_softness=0.2 up='Y'>
+DEBUG:kubric.simulator.pybullet:Ignored camera <camera background=True focal_length=50.0 front='-Z' metadata={} name='camera' position=array([ 2. , -0.5,  4. ], dtype=float32) quaternion=array([0.765998  , 0.1857818 , 0.14505404, 0.5980732 ], dtype=float32) sensor_width=36.0 up='Y'>
+DEBUG:kubric.simulator.pybullet:Loading 'C:\Users\Wei Quan\kubric\pybullet_data\wooden_table\wooden_table.urdf' in the simulator
+DEBUG:PIL.TiffImagePlugin:tag: XResolution (282) - type: rational (5) Tag Location: 38 - Data Location: 8 - value: b'I\x19\x01\x00\xe8\x03\x00\x00'
+DEBUG:PIL.TiffImagePlugin:tag: YResolution (283) - type: rational (5) Tag Location: 50 - Data Location: 16 - value: b'I\x19\x01\x00\xe8\x03\x00\x00'
+DEBUG:trimesh:faces have mixed data: using slow fallback!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(200, 3), faces.shape=(196, 3))> using `load_obj` in 0.0136s
+DEBUG:PIL.TiffImagePlugin:tag: XResolution (282) - type: rational (5) Tag Location: 38 - Data Location: 8 - value: b'I\x19\x01\x00\xe8\x03\x00\x00'
+DEBUG:PIL.TiffImagePlugin:tag: YResolution (283) - type: rational (5) Tag Location: 50 - Data Location: 16 - value: b'I\x19\x01\x00\xe8\x03\x00\x00'
+DEBUG:trimesh:faces have mixed data: using slow fallback!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(200, 3), faces.shape=(196, 3))> using `load_obj` in 0.0033s
+DEBUG:kubric.simulator.pybullet:Loading 'C:\Users\Wei Quan\kubric\pybullet_data\fabric\cube.urdf' in the simulator
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(24, 3), faces.shape=(12, 3))> using `load_obj` in 0.0039s
+DEBUG:kubric.simulator.pybullet:Loading 'C:\Users\Wei Quan\kubric\pybullet_data\wooden_table\wooden_table.urdf' in the simulator
+DEBUG:PIL.TiffImagePlugin:tag: XResolution (282) - type: rational (5) Tag Location: 38 - Data Location: 8 - value: b'I\x19\x01\x00\xe8\x03\x00\x00'
+DEBUG:PIL.TiffImagePlugin:tag: YResolution (283) - type: rational (5) Tag Location: 50 - Data Location: 16 - value: b'I\x19\x01\x00\xe8\x03\x00\x00'
+DEBUG:trimesh:faces have mixed data: using slow fallback!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(200, 3), faces.shape=(196, 3))> using `load_obj` in 0.0033s
+DEBUG:PIL.TiffImagePlugin:tag: XResolution (282) - type: rational (5) Tag Location: 38 - Data Location: 8 - value: b'I\x19\x01\x00\xe8\x03\x00\x00'
+DEBUG:PIL.TiffImagePlugin:tag: YResolution (283) - type: rational (5) Tag Location: 50 - Data Location: 16 - value: b'I\x19\x01\x00\xe8\x03\x00\x00'
+DEBUG:trimesh:faces have mixed data: using slow fallback!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(200, 3), faces.shape=(196, 3))> using `load_obj` in 0.0031s
+DEBUG:kubric.simulator.pybullet:Loading 'C:\Users\Wei Quan\kubric\pybullet_data\tray\tray.urdf' in the simulator
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(144, 3), faces.shape=(72, 3))> using `load_obj` in 0.0019s
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(144, 3), faces.shape=(72, 3))> using `load_obj` in 0.0015s
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0019s
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0016s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(6985, 3), faces.shape=(12516, 3))> using `load_obj` in 0.0506s
+DEBUG:trimesh:unable to load materials from: link1.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(850, 3), faces.shape=(300, 3))> using `load_obj` in 0.0023s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(7126, 3), faces.shape=(12716, 3))> using `load_obj` in 0.0503s
+DEBUG:trimesh:unable to load materials from: link2.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(854, 3), faces.shape=(300, 3))> using `load_obj` in 0.0023s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0596s
+DEBUG:trimesh:unable to load materials from: link3.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(866, 3), faces.shape=(300, 3))> using `load_obj` in 0.0031s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0700s
+DEBUG:trimesh:unable to load materials from: link4.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(858, 3), faces.shape=(300, 3))> using `load_obj` in 0.0037s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=3)> using `load_obj` in 0.0742s
+DEBUG:trimesh:unable to load materials from: link5.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(888, 3), faces.shape=(300, 3))> using `load_obj` in 0.0037s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.1243s
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.0175s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0039s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0026s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=5)> using `load_obj` in 0.0400s
+DEBUG:trimesh:unable to load materials from: hand.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(596, 3), faces.shape=(200, 3))> using `load_obj` in 0.0028s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0059s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0015s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0059s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0013s
+DEBUG:kubric.simulator.pybullet:Loading 'C:\Users\Wei Quan\kubric\pybullet_data\franka_panda\panda.urdf' in the simulator
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0017s
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0016s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(6985, 3), faces.shape=(12516, 3))> using `load_obj` in 0.0483s
+DEBUG:trimesh:unable to load materials from: link1.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(850, 3), faces.shape=(300, 3))> using `load_obj` in 0.0022s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(7126, 3), faces.shape=(12716, 3))> using `load_obj` in 0.0494s
+DEBUG:trimesh:unable to load materials from: link2.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(854, 3), faces.shape=(300, 3))> using `load_obj` in 0.0022s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0595s
+DEBUG:trimesh:unable to load materials from: link3.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(866, 3), faces.shape=(300, 3))> using `load_obj` in 0.0023s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0673s
+DEBUG:trimesh:unable to load materials from: link4.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(858, 3), faces.shape=(300, 3))> using `load_obj` in 0.0035s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=3)> using `load_obj` in 0.0734s
+DEBUG:trimesh:unable to load materials from: link5.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(888, 3), faces.shape=(300, 3))> using `load_obj` in 0.0043s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.1329s
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.0170s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0027s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0025s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=5)> using `load_obj` in 0.0413s
+DEBUG:trimesh:unable to load materials from: hand.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(596, 3), faces.shape=(200, 3))> using `load_obj` in 0.0020s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0059s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0014s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0064s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0013s
+DEBUG:kubric.simulator.pybullet:Loading 'C:\Users\Wei Quan\kubric\pybullet_data\franka_panda\panda.urdf' in the simulator
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0023s
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0016s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(6985, 3), faces.shape=(12516, 3))> using `load_obj` in 0.0512s
+DEBUG:trimesh:unable to load materials from: link1.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(850, 3), faces.shape=(300, 3))> using `load_obj` in 0.0023s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(7126, 3), faces.shape=(12716, 3))> using `load_obj` in 0.0516s
+DEBUG:trimesh:unable to load materials from: link2.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(854, 3), faces.shape=(300, 3))> using `load_obj` in 0.0023s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0621s
+DEBUG:trimesh:unable to load materials from: link3.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(866, 3), faces.shape=(300, 3))> using `load_obj` in 0.0023s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0620s
+DEBUG:trimesh:unable to load materials from: link4.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(858, 3), faces.shape=(300, 3))> using `load_obj` in 0.0037s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=3)> using `load_obj` in 0.0730s
+DEBUG:trimesh:unable to load materials from: link5.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(888, 3), faces.shape=(300, 3))> using `load_obj` in 0.0037s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.1297s
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.0162s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0027s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0025s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=5)> using `load_obj` in 0.0414s
+DEBUG:trimesh:unable to load materials from: hand.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(596, 3), faces.shape=(200, 3))> using `load_obj` in 0.0021s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0061s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0014s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0066s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0014s
+DEBUG:kubric.simulator.pybullet:Loading 'C:\Users\Wei Quan\kubric\pybullet_data\franka_panda\panda.urdf' in the simulator
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0020s
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0017s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(6985, 3), faces.shape=(12516, 3))> using `load_obj` in 0.0525s
+DEBUG:trimesh:unable to load materials from: link1.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(850, 3), faces.shape=(300, 3))> using `load_obj` in 0.0023s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(7126, 3), faces.shape=(12716, 3))> using `load_obj` in 0.0525s
+DEBUG:trimesh:unable to load materials from: link2.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(854, 3), faces.shape=(300, 3))> using `load_obj` in 0.0023s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0634s
+DEBUG:trimesh:unable to load materials from: link3.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(866, 3), faces.shape=(300, 3))> using `load_obj` in 0.0024s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0627s
+DEBUG:trimesh:unable to load materials from: link4.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(858, 3), faces.shape=(300, 3))> using `load_obj` in 0.0039s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=3)> using `load_obj` in 0.0752s
+DEBUG:trimesh:unable to load materials from: link5.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(888, 3), faces.shape=(300, 3))> using `load_obj` in 0.0038s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.1320s
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.0167s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0027s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0025s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=5)> using `load_obj` in 0.0402s
+DEBUG:trimesh:unable to load materials from: hand.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(596, 3), faces.shape=(200, 3))> using `load_obj` in 0.0019s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0059s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0013s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0065s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0013s
+DEBUG:kubric.simulator.pybullet:Loading 'C:\Users\Wei Quan\kubric\pybullet_data\franka_panda\panda.urdf' in the simulator
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0019s
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0017s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(6985, 3), faces.shape=(12516, 3))> using `load_obj` in 0.0528s
+DEBUG:trimesh:unable to load materials from: link1.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(850, 3), faces.shape=(300, 3))> using `load_obj` in 0.0025s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(7126, 3), faces.shape=(12716, 3))> using `load_obj` in 0.0534s
+DEBUG:trimesh:unable to load materials from: link2.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(854, 3), faces.shape=(300, 3))> using `load_obj` in 0.0023s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0628s
+DEBUG:trimesh:unable to load materials from: link3.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(866, 3), faces.shape=(300, 3))> using `load_obj` in 0.0026s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0631s
+DEBUG:trimesh:unable to load materials from: link4.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(858, 3), faces.shape=(300, 3))> using `load_obj` in 0.0049s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=3)> using `load_obj` in 0.0766s
+DEBUG:trimesh:unable to load materials from: link5.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(888, 3), faces.shape=(300, 3))> using `load_obj` in 0.0063s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.1591s
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.0189s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0026s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0026s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=5)> using `load_obj` in 0.0403s
+DEBUG:trimesh:unable to load materials from: hand.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(596, 3), faces.shape=(200, 3))> using `load_obj` in 0.0030s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0059s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0014s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0062s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0014s
+DEBUG:kubric.simulator.pybullet:Loading 'C:\Users\Wei Quan\kubric\pybullet_data\franka_panda\panda.urdf' in the simulator
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0020s
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0017s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(6985, 3), faces.shape=(12516, 3))> using `load_obj` in 0.0526s
+DEBUG:trimesh:unable to load materials from: link1.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(850, 3), faces.shape=(300, 3))> using `load_obj` in 0.0023s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(7126, 3), faces.shape=(12716, 3))> using `load_obj` in 0.0532s
+DEBUG:trimesh:unable to load materials from: link2.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(854, 3), faces.shape=(300, 3))> using `load_obj` in 0.0023s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0647s
+DEBUG:trimesh:unable to load materials from: link3.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(866, 3), faces.shape=(300, 3))> using `load_obj` in 0.0029s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0691s
+DEBUG:trimesh:unable to load materials from: link4.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(858, 3), faces.shape=(300, 3))> using `load_obj` in 0.0041s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=3)> using `load_obj` in 0.0751s
+DEBUG:trimesh:unable to load materials from: link5.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(888, 3), faces.shape=(300, 3))> using `load_obj` in 0.0039s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.1314s
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.0197s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0027s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0026s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=5)> using `load_obj` in 0.0430s
+DEBUG:trimesh:unable to load materials from: hand.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(596, 3), faces.shape=(200, 3))> using `load_obj` in 0.0022s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0074s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0013s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0061s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0014s
+DEBUG:kubric.simulator.pybullet:Loading 'C:\Users\Wei Quan\kubric\pybullet_data\franka_panda\panda.urdf' in the simulator
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0019s
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0017s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(6985, 3), faces.shape=(12516, 3))> using `load_obj` in 0.0554s
+DEBUG:trimesh:unable to load materials from: link1.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(850, 3), faces.shape=(300, 3))> using `load_obj` in 0.0027s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(7126, 3), faces.shape=(12716, 3))> using `load_obj` in 0.0560s
+DEBUG:trimesh:unable to load materials from: link2.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(854, 3), faces.shape=(300, 3))> using `load_obj` in 0.0026s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0728s
+DEBUG:trimesh:unable to load materials from: link3.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(866, 3), faces.shape=(300, 3))> using `load_obj` in 0.0026s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0642s
+DEBUG:trimesh:unable to load materials from: link4.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(858, 3), faces.shape=(300, 3))> using `load_obj` in 0.0039s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=3)> using `load_obj` in 0.0772s
+DEBUG:trimesh:unable to load materials from: link5.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(888, 3), faces.shape=(300, 3))> using `load_obj` in 0.0038s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.1412s
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.0180s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0029s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0028s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=5)> using `load_obj` in 0.0434s
+DEBUG:trimesh:unable to load materials from: hand.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(596, 3), faces.shape=(200, 3))> using `load_obj` in 0.0020s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0061s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0014s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0069s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0018s
+DEBUG:kubric.simulator.pybullet:Loading 'C:\Users\Wei Quan\kubric\pybullet_data\franka_panda\panda.urdf' in the simulator
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0019s
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0017s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(6985, 3), faces.shape=(12516, 3))> using `load_obj` in 0.0502s
+DEBUG:trimesh:unable to load materials from: link1.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(850, 3), faces.shape=(300, 3))> using `load_obj` in 0.0023s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(7126, 3), faces.shape=(12716, 3))> using `load_obj` in 0.0500s
+DEBUG:trimesh:unable to load materials from: link2.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(854, 3), faces.shape=(300, 3))> using `load_obj` in 0.0023s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0593s
+DEBUG:trimesh:unable to load materials from: link3.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(866, 3), faces.shape=(300, 3))> using `load_obj` in 0.0027s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0604s
+DEBUG:trimesh:unable to load materials from: link4.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(858, 3), faces.shape=(300, 3))> using `load_obj` in 0.0038s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=3)> using `load_obj` in 0.0725s
+DEBUG:trimesh:unable to load materials from: link5.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(888, 3), faces.shape=(300, 3))> using `load_obj` in 0.0037s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.1268s
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.0167s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0025s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0025s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=5)> using `load_obj` in 0.0395s
+DEBUG:trimesh:unable to load materials from: hand.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(596, 3), faces.shape=(200, 3))> using `load_obj` in 0.0026s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0069s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0017s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0073s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0021s
+DEBUG:kubric.simulator.pybullet:Loading 'C:\Users\Wei Quan\kubric\pybullet_data\franka_panda\panda.urdf' in the simulator
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0020s
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0019s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(6985, 3), faces.shape=(12516, 3))> using `load_obj` in 0.0531s
+DEBUG:trimesh:unable to load materials from: link1.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(850, 3), faces.shape=(300, 3))> using `load_obj` in 0.0023s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(7126, 3), faces.shape=(12716, 3))> using `load_obj` in 0.0511s
+DEBUG:trimesh:unable to load materials from: link2.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(854, 3), faces.shape=(300, 3))> using `load_obj` in 0.0022s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0603s
+DEBUG:trimesh:unable to load materials from: link3.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(866, 3), faces.shape=(300, 3))> using `load_obj` in 0.0025s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0616s
+DEBUG:trimesh:unable to load materials from: link4.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(858, 3), faces.shape=(300, 3))> using `load_obj` in 0.0044s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=3)> using `load_obj` in 0.0727s
+DEBUG:trimesh:unable to load materials from: link5.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(888, 3), faces.shape=(300, 3))> using `load_obj` in 0.0036s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.1312s
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.0168s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0025s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0025s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=5)> using `load_obj` in 0.0399s
+DEBUG:trimesh:unable to load materials from: hand.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(596, 3), faces.shape=(200, 3))> using `load_obj` in 0.0020s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0061s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0014s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0060s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0014s
+DEBUG:kubric.simulator.pybullet:Loading 'C:\Users\Wei Quan\kubric\pybullet_data\franka_panda\panda.urdf' in the simulator
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0019s
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0016s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(6985, 3), faces.shape=(12516, 3))> using `load_obj` in 0.0499s
+DEBUG:trimesh:unable to load materials from: link1.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(850, 3), faces.shape=(300, 3))> using `load_obj` in 0.0023s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(7126, 3), faces.shape=(12716, 3))> using `load_obj` in 0.0515s
+DEBUG:trimesh:unable to load materials from: link2.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(854, 3), faces.shape=(300, 3))> using `load_obj` in 0.0022s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0619s
+DEBUG:trimesh:unable to load materials from: link3.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(866, 3), faces.shape=(300, 3))> using `load_obj` in 0.0024s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0596s
+DEBUG:trimesh:unable to load materials from: link4.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(858, 3), faces.shape=(300, 3))> using `load_obj` in 0.0046s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=3)> using `load_obj` in 0.0718s
+DEBUG:trimesh:unable to load materials from: link5.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(888, 3), faces.shape=(300, 3))> using `load_obj` in 0.0037s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.1262s
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.0167s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0026s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0026s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=5)> using `load_obj` in 0.0412s
+DEBUG:trimesh:unable to load materials from: hand.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(596, 3), faces.shape=(200, 3))> using `load_obj` in 0.0020s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0059s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0013s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0059s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0024s
+DEBUG:kubric.simulator.pybullet:Loading 'C:\Users\Wei Quan\kubric\pybullet_data\franka_panda\panda.urdf' in the simulator
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0018s
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0018s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(6985, 3), faces.shape=(12516, 3))> using `load_obj` in 0.0509s
+DEBUG:trimesh:unable to load materials from: link1.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(850, 3), faces.shape=(300, 3))> using `load_obj` in 0.0023s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(7126, 3), faces.shape=(12716, 3))> using `load_obj` in 0.0502s
+DEBUG:trimesh:unable to load materials from: link2.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(854, 3), faces.shape=(300, 3))> using `load_obj` in 0.0022s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0638s
+DEBUG:trimesh:unable to load materials from: link3.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(866, 3), faces.shape=(300, 3))> using `load_obj` in 0.0024s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0618s
+DEBUG:trimesh:unable to load materials from: link4.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(858, 3), faces.shape=(300, 3))> using `load_obj` in 0.0037s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=3)> using `load_obj` in 0.0726s
+DEBUG:trimesh:unable to load materials from: link5.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(888, 3), faces.shape=(300, 3))> using `load_obj` in 0.0038s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.1283s
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.0171s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0027s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0026s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=5)> using `load_obj` in 0.0423s
+DEBUG:trimesh:unable to load materials from: hand.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(596, 3), faces.shape=(200, 3))> using `load_obj` in 0.0020s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0060s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0014s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0059s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0014s
+DEBUG:kubric.simulator.pybullet:Loading 'C:\Users\Wei Quan\kubric\pybullet_data\franka_panda\panda.urdf' in the simulator
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0018s
+DEBUG:trimesh:unable to load materials from: link0.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(498, 3), faces.shape=(200, 3))> using `load_obj` in 0.0017s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(6985, 3), faces.shape=(12516, 3))> using `load_obj` in 0.0511s
+DEBUG:trimesh:unable to load materials from: link1.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(850, 3), faces.shape=(300, 3))> using `load_obj` in 0.0023s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(7126, 3), faces.shape=(12716, 3))> using `load_obj` in 0.0510s
+DEBUG:trimesh:unable to load materials from: link2.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(854, 3), faces.shape=(300, 3))> using `load_obj` in 0.0022s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0613s
+DEBUG:trimesh:unable to load materials from: link3.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(866, 3), faces.shape=(300, 3))> using `load_obj` in 0.0029s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=4)> using `load_obj` in 0.0803s
+DEBUG:trimesh:unable to load materials from: link4.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(858, 3), faces.shape=(300, 3))> using `load_obj` in 0.0072s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=3)> using `load_obj` in 0.0737s
+DEBUG:trimesh:unable to load materials from: link5.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(888, 3), faces.shape=(300, 3))> using `load_obj` in 0.0037s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.1276s
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:failed to load image
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\exchange\obj.py", line 347, in parse_mtl
+    file_data = resolver.get(file_name)
+  File "C:\ProgramData\Anaconda3\envs\Kubric\lib\site-packages\trimesh\resolvers.py", line 145, in get
+    with open(path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Wei Quan\\kubric\\pybullet_data\\franka_panda\\meshes\\collision\\colors.png'
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=17)> using `load_obj` in 0.0169s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0026s
+DEBUG:trimesh:unable to load materials from: link7.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(552, 3), faces.shape=(200, 3))> using `load_obj` in 0.0025s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=5)> using `load_obj` in 0.0401s
+DEBUG:trimesh:unable to load materials from: hand.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(596, 3), faces.shape=(200, 3))> using `load_obj` in 0.0020s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0059s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0014s
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 43
+DEBUG:PIL.PngImagePlugin:STREAM b'tIME' 96 7
+DEBUG:PIL.PngImagePlugin:b'tIME' 96 7 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 115 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 136 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 152 33169
+DEBUG:trimesh:loaded <trimesh.Scene(len(geometry)=2)> using `load_obj` in 0.0059s
+DEBUG:trimesh:unable to load materials from: finger.stl.obj.mtl
+DEBUG:trimesh:specified material (DefaultMaterial)  not loaded!
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(90, 3), faces.shape=(32, 3))> using `load_obj` in 0.0015s
+INFO:kubric.renderer.blender:Saving 'wq\0simulator.blend'

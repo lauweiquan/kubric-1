@@ -1,4 +1,4 @@
-# Copyright 2023 The Kubric Authors.
+# Copyright 2022 The Kubric Authors.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,7 +15,7 @@
 """Root of the kubric module."""
 
 # --- auto-computed by setup.py, source version is always at HEAD
-__version__ = "HEAD"
+__version__ = "2023.5.17.23.14.51"
 
 # --- basic kubric types
 from pyquaternion import Quaternion

@@ -1,4 +1,4 @@
-# Copyright 2023 The Kubric Authors.
+# Copyright 2022 The Kubric Authors.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -83,7 +83,7 @@ def rotation_sampler(axis=None):
 
 def bottom_sampler(region):
   """Sample positions at the bottom of a region"""
-  region = np.array(region, dtype=np.float32)
+  region = np.array(region, dtype=np.float)
 
   def _sampler(obj: objects.PhysicalObject, rng):
     obj.position = (0, 0, 0)  # reset position to origin
@@ -95,7 +95,7 @@ def bottom_sampler(region):
 
 
 def position_sampler(region):
-  region = np.array(region, dtype=np.float32)
+  region = np.array(region, dtype=np.float)
 
   def _sampler(obj: objects.PhysicalObject, rng):
     obj.position = (0, 0, 0)  # reset position to origin

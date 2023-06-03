@@ -1,4 +1,4 @@
-# Copyright 2023 The Kubric Authors.
+# Copyright 2022 The Kubric Authors.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -423,11 +423,6 @@ class Blender(core.View):
             # here we are interested only in the meshes, so delete everything else
             non_mesh_objects = [obj for obj in bpy.context.selected_objects if obj.type != "MESH"]
             bpy.ops.object.delete({"selected_objects": non_mesh_objects})
-            # make sure one of the objects is active, otherwise join() fails.
-            # see https://blender.stackexchange.com/questions/132266/joining-all-meshes-in-any-context-gets-error
-            bpy.context.view_layer.objects.active = (
-                bpy.context.selected_objects[0]
-            )
             bpy.ops.object.join()
             # By default gltf objects are loaded with a different rotation than obj files
             # here we compensate for that to ensure alignment between pybullet and blender
@@ -480,25 +475,23 @@ class Blender(core.View):
     obj.observe(KeyframeSetter(sun, "energy"), "intensity", type="keyframe")
     return sun_obj
 
-  @add_asset.register(core.SpotLight)
-  @blender_utils.prepare_blender_object
+  #@add_asset.register(core.SpotLight) # I think these are needed... ~MrX
+  #@blender_utils.prepare_blender_object
   def _add_asset(self, obj: core.SpotLight):  # pylint: disable=function-redefined
     spotlight = bpy.data.lights.new(obj.uid, "SPOT")
-    spotlight_obj = bpy.data.objects.new(obj.uid, spotlight)
+    spotlight_obj = bpy.data.objects.new(obj.uid, core.SpotLight)
 
     register_object3d_setters(obj, spotlight_obj)
     obj.observe(AttributeSetter(spotlight, "color"), "color")
     obj.observe(KeyframeSetter(spotlight, "color"), "color", type="keyframe")
     obj.observe(AttributeSetter(spotlight, "energy"), "intensity")
-    obj.observe(KeyframeSetter(spotlight, "energy"), "intensity",
-                type="keyframe")
+    obj.observe(KeyframeSetter(spotlight, "energy"), "intensity", type="keyframe")
     obj.observe(AttributeSetter(spotlight, "spot_blend"), "spot_blend")
-    obj.observe(KeyframeSetter(spotlight, "spot_blend"), "spot_blend",
-                type="keyframe")
+    obj.observe(KeyframeSetter(spotlight, "spot_blend"), "spot_blend", type="keyframe")
     obj.observe(AttributeSetter(spotlight, "spot_size"), "spot_size")
-    obj.observe(KeyframeSetter(spotlight, "spot_size"), "spot_size",
-                type="keyframe")
+    obj.observe(KeyframeSetter(spotlight, "spot_size"), "spot_size", type="keyframe")
     return spotlight_obj
+
 
   @add_asset.register(core.RectAreaLight)
   @blender_utils.prepare_blender_object
@@ -544,10 +537,6 @@ class Blender(core.View):
     obj.observe(KeyframeSetter(camera, "lens"), "focal_length", type="keyframe")
     obj.observe(AttributeSetter(camera, "sensor_width"), "sensor_width")
     obj.observe(KeyframeSetter(camera, "sensor_width"), "sensor_width", type="keyframe")
-    obj.observe(AttributeSetter(camera, "clip_start"), "min_render_distance")
-    obj.observe(KeyframeSetter(camera, "clip_start"), "min_render_distance", type="keyframe")
-    obj.observe(AttributeSetter(camera, "clip_end"), "max_render_distance")
-    obj.observe(KeyframeSetter(camera, "clip_end"), "max_render_distance", type="keyframe")
     return camera_obj
 
   @add_asset.register(core.OrthographicCamera)
@@ -560,10 +549,6 @@ class Blender(core.View):
     register_object3d_setters(obj, camera_obj)
     obj.observe(AttributeSetter(camera, "ortho_scale"), "orthographic_scale")
     obj.observe(KeyframeSetter(camera, "ortho_scale"), "orthographic_scale", type="keyframe")
-    obj.observe(AttributeSetter(camera, "clip_start"), "min_render_distance")
-    obj.observe(KeyframeSetter(camera, "clip_start"), "min_render_distance", type="keyframe")
-    obj.observe(AttributeSetter(camera, "clip_end"), "max_render_distance")
-    obj.observe(KeyframeSetter(camera, "clip_end"), "max_render_distance", type="keyframe")
     return camera_obj
 
   @add_asset.register(core.PrincipledBSDFMaterial)

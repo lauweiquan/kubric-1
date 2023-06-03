@@ -1,4 +1,4 @@
-# Copyright 2023 The Kubric Authors.
+# Copyright 2022 The Kubric Authors.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -238,7 +238,7 @@ class PhysicalObject(Object3D):
   @property
   def bbox_3d(self):
     """ 3D bounding box as an array of 8 corners (shape = [8, 3])"""
-    bounds = np.array(self.bounds, dtype=np.float32)
+    bounds = np.array(self.bounds, dtype=np.float)
     # scale bounds:
     bounds *= self.scale
     # construct list of bbox corners
